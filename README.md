@@ -1,6 +1,6 @@
 <div align="center"><img src="assets/logo.png" width="350"></div>
 <img src="assets/demo.png" >
-
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1773017175484272640.svg)](https://www.murphysec.com/console/report/1773016683433693184/1773017175484272640)
 ## Introduction
 YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities.
 For more details, please refer to our [report on Arxiv](https://arxiv.org/abs/2107.08430).
